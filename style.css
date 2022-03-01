@@ -1,0 +1,37 @@
+
+.container {
+    width: fit-content;
+    border: black solid 2px;
+    background-color: rgb(34, 174, 216);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+#result {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.dentaku {
+    width: 500px;
+}
+
+.button {
+    width: 100px;
+    height: 100%;
+    font-size: 30px;
+    margin-right: 28px;
+    border-radius: 5px;
+}
+
+.button_bottom {
+    width: 234px;
+    height: 100%;
+    font-size: 30px;
+    margin-right: 28px;
+    border-radius: 5px;
+
+}
